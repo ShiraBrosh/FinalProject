@@ -5,7 +5,7 @@ This project began by experimenting with predefined example codes to familiarize
 - **Hello World**: A simple program to ensure the development setup is correctly configured.
 - **Blink**: A basic LED blinking program to verify the board and GPIO functionality.
 - **Fast Scan**: A test program that performs a fast scan to evaluate the scanning capabilities of the board with rssi data.
-- **Blink&Fast Scan**:  Later, we merged these two codes and created a graph that represents the **RSSI (Received Signal Strength Indicator)** data collected at the moment. The LED blinked in different colors whenever the RSSI data exceeded a certain threshold, it was also shown at the graph.
+- **Blink&Fast Scan**:  Later, we merged these two codes and created a graph that represents the RSSI (Received Signal Strength Indicator) data collected at the moment. The LED blinked in different colors whenever the RSSI data exceeded a certain threshold, it was also shown at the graph.
 
 ## Phase 2: CSI Data Collection
 
